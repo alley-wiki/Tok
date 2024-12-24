@@ -80,8 +80,8 @@ export default function WikiPage() {
               <h2>Разбан</h2>
               <p>
                 Проходит 370 дней с 29 сентября 2022 года, с последнего появления Тока, пока его не разбанивают. Ночью с 10 по 11 декабря 2023 года он ливает т.к. по его мнению 
-                <a href="https://visneviye-allei-wiki.github.io/sai/" className="link"> Сай</a> устраивает раздачу мутов и предов всем подряд. Позже, а именно днём 11 числа, Tok возвращается обратно на 
-                <a href="https://discord.gg/dRu68ERWFx" className="link"> сервер</a>.
+                <a href="https://alley-wiki.github.io/Sai" className="link"> Сай</a> устраивает раздачу мутов и предов всем подряд. Позже, а именно днём 11 числа, Tok возвращается обратно на 
+                <a href="https://alley-wiki.github.io/" className="link"> сервер</a>.
               </p>
 
               <h2>Чем занимается сейчас</h2>
